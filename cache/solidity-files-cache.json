@@ -1,0 +1,44 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/thefirstelder/Documents/class/firstHardhatClass/contracts/Bank.sol": {
+      "lastModificationDate": 1719253825943,
+      "contentHash": "19566f5a043924cbe1fcd61b894f0c87",
+      "sourceName": "contracts/Bank.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": false
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Bank"
+      ]
+    }
+  }
+}
